@@ -7,6 +7,9 @@ The front end UI is built on Streamlit which is hosted on its own Docker contain
 We spin both the containers together using `Docker Compose` .
 
 
+![GitHub Logo](/images/spam.png)
+
+
 ## How to use
 
 Clone this repo and run the below docker command:
