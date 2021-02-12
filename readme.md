@@ -18,9 +18,10 @@ Clone this repo and run the below docker command:
 ```docker
 docker-compose up -d --build
 
-and navigate to http://localhost:8501/
 
 ```
+and navigate to http://localhost:8501/
+
 `To Stop Application:`
 ```docker
 docker-compose down
