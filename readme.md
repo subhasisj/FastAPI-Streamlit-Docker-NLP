@@ -17,6 +17,9 @@ Clone this repo and run the below docker command:
 `To Start Application:`
 ```docker
 docker-compose up -d --build
+
+and navigate to http://localhost:8501/
+
 ```
 `To Stop Application:`
 ```docker
