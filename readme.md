@@ -14,8 +14,13 @@ We spin both the containers together using `Docker Compose` .
 
 Clone this repo and run the below docker command:
 
+`To Start Application:`
 ```docker
 docker-compose up -d --build
+```
+`To Stop Application:`
+```docker
+docker-compose down
 ```
 
 ### Trivia: 
